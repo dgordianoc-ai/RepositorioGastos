@@ -23,20 +23,6 @@ Programa de consola en C# para registrar y listar gastos utilizando SQL Server, 
 
 La clase `Gasto` representa cada registro. `GastoRepositorio` contiene los métodos `Insertar()` y `ListarTodos()`, que utilizan consultas parametrizadas para trabajar con SQL Server. El programa valida los datos ingresados y muestra el total de los gastos registrados.
 
-## Evidencias
-
-### Escenario 1: Listar gastos iniciales
-![Escenario 1](evidencias/escenario1.png)
-
-### Escenario 2: Registrar Café por Q12.00
-![Escenario 2](evidencias/escenario2.png)
-
-### Escenario 3: Validar montos inválidos
-![Escenario 3](evidencias/escenario3.png)
-
-### Escenario 4: Registrar Tacos 'al pastor' por Q35.00
-![Escenario 4](evidencias/escenario4.png)
-
 ## Video explicativo
 
 **Enlace público:** PENDIENTE DE AGREGAR
