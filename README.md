@@ -25,4 +25,4 @@ La clase `Gasto` representa cada registro. `GastoRepositorio` contiene los méto
 
 ## Video explicativo
 
-**Enlace público:https://drive.google.com/file/d/15e6tEPHQVN8ZF-1cX9t2DWluJViYumiU/view?usp=sharing
+Enlace público:https://drive.google.com/file/d/15e6tEPHQVN8ZF-1cX9t2DWluJViYumiU/view?usp=sharing
