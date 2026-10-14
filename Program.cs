@@ -1,8 +1,4 @@
-﻿
-using System;
-using System.Collections.Generic;
-
-namespace RepositorioGastos
+﻿namespace RepositorioGastos
 {
     internal class Program
     {
